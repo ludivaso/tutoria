@@ -32,7 +32,7 @@ function usePWA() {
 }
 
 const SB_URL  = "https://xayhewabzzjoxvrtbvys.supabase.co";
-const SB_ANON = "ANON_KEY_PLACEHOLDER";
+const SB_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhheWhld2Fienpqb3h2cnRidnlzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI5NjAzMTYsImV4cCI6MjA4ODUzNjMxNn0.5nY-xdP73MTeV5nAyAM06YYJtJ3wpvZeosWlt5BF4E4";
 
 const sb = {
   headers: (token) => ({
